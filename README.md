@@ -1,6 +1,7 @@
 # KumaBar
 A MacOS menu bar app to quickly view the status of Uptime Kuma monitors.
-<img width="1280" alt="Screen 2" src="https://github.com/user-attachments/assets/cd6f56ac-835d-4a23-9abd-0d8018963de6" />
+
+<img width="640" alt="Screen 2" src="https://github.com/user-attachments/assets/cd6f56ac-835d-4a23-9abd-0d8018963de6" />
 
 
 
